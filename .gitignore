@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+
+# env — never commit your API key
+.env.local
+.env
+
+# misc
+.DS_Store
+*.pem
+npm-debug.log*
